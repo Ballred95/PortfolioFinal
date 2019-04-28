@@ -1,0 +1,72 @@
+header {text-align: center;
+    font-size: 3rem;
+margin: 0;}
+
+.nav {display: flex;
+justify-content: space-around;
+margin-top: 1rem;
+border: 1px solid black;
+box-shadow: 0 0 4px black;
+position: fixed; /* Set the navbar to fixed position */
+top: 10; /* Position the navbar at the top of the page */
+width: 100%; /* Full width */
+
+
+}
+
+
+.section{font-size: 2rem;
+text-decoration: none;
+color: black;}
+
+#sec1:hover {background-color: red;
+    color: white;
+cursor: pointer;}
+#sec2:hover {background-color: red;
+    color: white;
+cursor: pointer;}
+#sec3:hover {background-color: red;
+    color: white;
+cursor: pointer;}
+
+
+.logocontainer{display: flex;
+justify-content: center;
+height: 100%;
+ }
+
+#logo{
+    height: 400px;
+   margin-top: 200px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+   
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+#first{height: 100%;
+background-color: blue;
+}
+#second{height: 100%;
+    background-color:white;;}
+
+    #third{height: 100%;
+        background-color:red;}
+
+        
+        
+    
+
+
+
+
+
+
+
+
