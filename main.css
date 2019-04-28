@@ -3,15 +3,14 @@ body {background: rgb(255,255,255);
 
 header {text-align: center;
     font-size: 3rem;
-margin: 0;}
+padding-top: 60px;}
 
 .nav {display: flex;
 justify-content: space-around;
-margin-top: 1rem;
 border: 1px solid black;
 box-shadow: 0 0 4px black;
 position: fixed; /* Set the navbar to fixed position */
-top: 10; /* Position the navbar at the top of the page */
+top: 0; /* Position the navbar at the top of the page */
 width: 100%; /* Full width */
 
 
@@ -65,7 +64,8 @@ html, body {
   
 
 }
-.aboutme{padding-top: 10rem;
+.aboutme{
+  border: 3px solid red;
    
 }
 
@@ -81,7 +81,7 @@ html, body {
 .projectsme{padding-top: 10rem;
 }
 
-
+fieldset{}
 
        
         
