@@ -65,7 +65,11 @@ html, body {
 
 }
 .aboutme{
-  border: 3px solid red;
+  margin: 5rem;
+  font-size: 2rem;
+
+  
+  
    
 }
 
@@ -82,9 +86,17 @@ html, body {
     display: flex;
 }
 
-figure{width: 400px;}
+figure{
+border: 1px solid black;}
+figure img {width: 400px;
+height: 400px;}
 
-       
+#profileflex{display: flex;
+    justify-content: space-around;
+    }
+       #profileflex img {width: 120px;
+    margin-top: 100px;}
+    #fcc-link{margin-top: 30px;}
         
         
     
