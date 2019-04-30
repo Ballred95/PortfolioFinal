@@ -8,6 +8,7 @@
     h1 {
         margin: 20px;
         color: green;
-border: 2px saddlebrown dotted;
+border: 2px saddlebrown solid;
     }
 
+body{background-color:pink;}
