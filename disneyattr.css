@@ -6,7 +6,7 @@ border: none;
 
 h3 {color: green;
 margin: 10px;
-border: 2px saddlebrown dotted;
+border: 2px saddlebrown solid;
 }
 
 body{background-color: pink;}
