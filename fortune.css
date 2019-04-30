@@ -1,0 +1,9 @@
+button {background-color: beige;
+width: 120px;}
+body {display: flex;}
+h1{margin-left: 100px;}
+
+body{background-image: url(http://chinainstitute.anu.edu.au/sites/default/files/styles/ci_large_680x412/public/banner1_0.jpg?itok=g83d_nRg);
+
+background-repeat: repeat;}
+
